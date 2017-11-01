@@ -1,0 +1,66 @@
+/* CSS Document */
+
+#wrapper {
+    background-color: #CCC;
+    height: 800px;
+    margin: 0 auto;
+    width: 960px;
+}
+
+header {
+    background-color: #0CC;
+    width: 960px;
+    height: 160px;
+}
+
+#columnLeft {
+    background-color: #0F9;
+    float: left;
+    height: 560px;
+    width: 240px;
+}
+
+#columnMain {
+    background-color: #CF3;
+    float:left;
+    height: 560px;
+    width: 720px;
+}
+
+.category {
+	float:left;
+	height:300px;
+	width:150px;
+}
+
+.productImage {
+	align:left;
+	height:300px;
+	width:300px;
+}
+
+.productName {
+	color:#0B1F6B;	
+	font-size:16px;
+}
+
+.productPrice {
+	color:#0F722D;
+	font-size:18px;	
+}
+
+.productDescription {
+	font-size:12px;		
+}
+
+footer {
+    background-color: #0CC;
+    height: 80px;
+    width: 960px;
+}
+
+.cleaner {
+    clear: both;
+}
+
+
